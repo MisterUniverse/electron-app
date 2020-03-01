@@ -1,0 +1,22 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Basic crud app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisterUniverse/electron-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisterUniverse/electron-app/issues"
+  },
+  "homepage": "https://github.com/MisterUniverse/electron-app#readme",
+  "dependencies": {
+    "electron": "^8.0.2"
+  }
+}
